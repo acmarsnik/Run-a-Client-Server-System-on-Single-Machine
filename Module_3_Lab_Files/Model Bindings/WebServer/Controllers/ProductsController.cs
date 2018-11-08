@@ -20,24 +20,24 @@ namespace WebServer.Controllers {
             return product;
         }
 
-        // [HttpPost]
-        // public Product Action4([FromForm]Product product) {
-        //     return product;
-        // }
+        [HttpPost("form")]
+        public Product Action4([FromForm]Product product) {
+            return product;
+        }
 
-        // [HttpPost]
-        // public Product Action5([FromBody]Product product) {
-        //     return product;
-        // }
+        [HttpPost("body")]
+        public Product Action5([FromBody]Product product) {
+            return product;
+        }
 
-        // [HttpPost("{id}/{name}/{price}")]
-        // public Product[] Action6([FromRoute]Product p1, [FromQuery] Product p2, [FromBody]Product p3) {
-        //     return new Product[] { p1, p2, p3 };
-        // }
+        [HttpPost("rqb/{id}/{name}/{price}")]
+        public Product[] Action6([FromRoute]Product p1, [FromQuery] Product p2, [FromBody]Product p3) {
+            return new Product[] { p1, p2, p3 };
+        }
 
-        // [HttpPost("{id}/{name}/{price}")]
-        // public Product[] Action7([FromRoute]Product p1, [FromQuery] Product p2, [FromForm]Product p3) {
-        //     return new Product[] { p1, p2, p3 };
-        // }
+        [HttpPost("rqf/{id}/{name}/{price}")]
+        public Product[] Action7([FromRoute]Product p1, [FromQuery] Product p2, [FromForm]Product p3) {
+            return new Product[] { p1, p2, p3 };
+        }
     }
 }

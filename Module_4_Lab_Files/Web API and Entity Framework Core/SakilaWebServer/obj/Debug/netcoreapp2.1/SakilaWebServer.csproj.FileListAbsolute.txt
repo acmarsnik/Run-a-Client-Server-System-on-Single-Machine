@@ -1,0 +1,14 @@
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp2.1\SakilaWebServer.csprojAssemblyReference.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp2.1\SakilaWebServer.csproj.CoreCompileInputs.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp2.1\SakilaWebServer.RazorAssemblyInfo.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp2.1\SakilaWebServer.RazorAssemblyInfo.cs
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp2.1\SakilaWebServer.AssemblyInfoInputs.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp2.1\SakilaWebServer.AssemblyInfo.cs
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp2.1\SakilaWebServer.deps.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp2.1\SakilaWebServer.runtimeconfig.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp2.1\SakilaWebServer.runtimeconfig.dev.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp2.1\SakilaWebServer.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp2.1\SakilaWebServer.pdb
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp2.1\SakilaWebServer.RazorTargetAssemblyInfo.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp2.1\SakilaWebServer.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp2.1\SakilaWebServer.pdb

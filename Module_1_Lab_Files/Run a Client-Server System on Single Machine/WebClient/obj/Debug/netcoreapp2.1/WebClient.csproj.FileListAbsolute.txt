@@ -1,0 +1,11 @@
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.1\WebClient.deps.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.1\WebClient.runtimeconfig.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.1\WebClient.runtimeconfig.dev.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.1\WebClient.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.1\WebClient.pdb
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.1\WebClient.csprojAssemblyReference.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.1\WebClient.csproj.CoreCompileInputs.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.1\WebClient.AssemblyInfoInputs.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.1\WebClient.AssemblyInfo.cs
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.1\WebClient.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.1\WebClient.pdb
