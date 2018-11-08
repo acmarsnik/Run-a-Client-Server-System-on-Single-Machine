@@ -1,0 +1,11 @@
+C:\samples\serializeDeserialize\bin\Debug\netcoreapp2.1\serializeDeserialize.deps.json
+C:\samples\serializeDeserialize\bin\Debug\netcoreapp2.1\serializeDeserialize.runtimeconfig.json
+C:\samples\serializeDeserialize\bin\Debug\netcoreapp2.1\serializeDeserialize.runtimeconfig.dev.json
+C:\samples\serializeDeserialize\bin\Debug\netcoreapp2.1\serializeDeserialize.dll
+C:\samples\serializeDeserialize\bin\Debug\netcoreapp2.1\serializeDeserialize.pdb
+C:\samples\serializeDeserialize\obj\Debug\netcoreapp2.1\serializeDeserialize.csprojAssemblyReference.cache
+C:\samples\serializeDeserialize\obj\Debug\netcoreapp2.1\serializeDeserialize.csproj.CoreCompileInputs.cache
+C:\samples\serializeDeserialize\obj\Debug\netcoreapp2.1\serializeDeserialize.AssemblyInfoInputs.cache
+C:\samples\serializeDeserialize\obj\Debug\netcoreapp2.1\serializeDeserialize.AssemblyInfo.cs
+C:\samples\serializeDeserialize\obj\Debug\netcoreapp2.1\serializeDeserialize.dll
+C:\samples\serializeDeserialize\obj\Debug\netcoreapp2.1\serializeDeserialize.pdb

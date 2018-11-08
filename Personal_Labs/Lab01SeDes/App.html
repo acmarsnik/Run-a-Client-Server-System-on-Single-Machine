@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Lab01SeDes</title>
+    <script>
+        var products = [
+            { "ID": 101, "Name": "Product-101", "Price": 43.2 },
+            { "ID": 102, "Name": "Product-102", "Price": 56.9 },
+            { "ID": 103, "Name": "Product-103", "Price": 12.3 },
+            { "ID": 104, "Name": "Product-104", "Price": 93.7 }];
+
+        // Serialization
+        var jsonStr = JSON.stringify(products);
+        document.write(jsonStr);
+        document.write('<br/>');
+
+        document.write("========================");
+        document.write('<br/>');
+
+        // Deserialization
+        var objects = JSON.parse(jsonStr);
+        for (var i in objects) {
+            document.write("ID:" + objects[i].ID + " Name:" + objects[i].Name + " Price:" + objects[i].Price);
+            document.write('<br/>');
+        }
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>
