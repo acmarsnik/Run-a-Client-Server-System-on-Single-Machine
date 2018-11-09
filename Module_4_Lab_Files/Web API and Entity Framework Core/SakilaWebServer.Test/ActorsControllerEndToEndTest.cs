@@ -1,9 +1,9 @@
 using System;
-using Xunit;
 using SakilaWebServer.Models;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using Newtonsoft.Json;
+using Xunit;
 
 namespace SakilaWebServer.Test
 {
@@ -27,10 +27,7 @@ namespace SakilaWebServer.Test
                 }
 
                 Actor actor = JsonConvert.DeserializeObject<Actor>(jsonString);
-                Assert.NotNull(actor);
-                Assert.Equal(101, actor.Actor_ID);
-                Assert.Equal("SUSAN", actor.First_Name);
-                Assert.Equal("DAVIS", actor.Last_Name);
+                new ActorsControllerTest().ActorTest(actor);
             }
         }
     }

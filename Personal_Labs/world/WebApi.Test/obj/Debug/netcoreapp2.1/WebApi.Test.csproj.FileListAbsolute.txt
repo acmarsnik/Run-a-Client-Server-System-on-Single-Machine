@@ -1,0 +1,17 @@
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\bin\Debug\netcoreapp2.1\WebApi.Test.deps.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\bin\Debug\netcoreapp2.1\WebApi.Test.runtimeconfig.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\bin\Debug\netcoreapp2.1\WebApi.Test.runtimeconfig.dev.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\bin\Debug\netcoreapp2.1\WebApi.Test.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\obj\Debug\netcoreapp2.1\WebApi.Test.csprojAssemblyReference.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\obj\Debug\netcoreapp2.1\WebApi.Test.csproj.CoreCompileInputs.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\obj\Debug\netcoreapp2.1\WebApi.Test.AssemblyInfoInputs.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\obj\Debug\netcoreapp2.1\WebApi.Test.AssemblyInfo.cs
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\bin\Debug\netcoreapp2.1\WebApi.Test.pdb
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\obj\Debug\netcoreapp2.1\WebApi.Test.csproj.CopyComplete
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\obj\Debug\netcoreapp2.1\WebApi.Test.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi.Test\obj\Debug\netcoreapp2.1\WebApi.Test.pdb

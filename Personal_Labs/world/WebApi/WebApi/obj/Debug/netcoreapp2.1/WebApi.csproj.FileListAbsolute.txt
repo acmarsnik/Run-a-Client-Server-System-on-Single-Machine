@@ -1,0 +1,14 @@
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+C:\samples\aspDotNetWebApis\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Personal_Labs\world\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
